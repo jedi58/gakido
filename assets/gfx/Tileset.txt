@@ -1,0 +1,157 @@
+code	filename	activeLayer
+
+0	sky1		0
+1	outflo1		1
+2	outflo2		1
+3	wall1		1
+4	infloor1	1,2
+5	box1		2,4	(uses engine to get color)
+6	wep8		3
+7	cover1		2	(uses engine to get color)
+8	wire1		2
+9	cover3		2,4
+10	cover3b		2,4
+11	cover3a		2,4
+12	cover3c		2,4
+13	wep1		3
+14	wep2		3
+15	hp1		3
+16	speed1		3
+17	wep3		3
+18	speed2		3
+19	extra1		3
+20	extra2		3
+21	extra3		3
+22	extra4		3
+23	extra5		3
+24	mansnake	3	(Uses engine to get color)
+25	spikes		3
+26	fire		3
+27	spklice		3
+28	cybat		3
+29	bubble		3	(Uses engine to get color)
+30	moon		0
+31	rdflrb1a	0
+32	rdflrb2a	0
+33	bldgbk		0
+34	mtnbk		0
+35	box2		2	(uses engine to get color)
+36	box3		2	(uses engine to get color)
+37	divver		3
+38	divhor		3
+39	bgwall1		0
+40	bgwall2		0
+41	rdflrb1b	0
+42	rdflrb2b	0
+43	pipe1		2
+44	pipe2		2
+45	scen1		2,4
+46	bonus1		3
+47	bonus2		3
+48	bonus3		3
+49	bonus4		3
+50	bonus5		3
+51	wep4		3
+52	wep5		3
+53	wep6		3
+54	wep7		3
+55	refill		3
+56	spdup1		3
+57	spdup2		3
+58	flask		3
+59	gem1		3
+60	gem2		3
+61	gem3		3
+62	gem4		3
+63	gem5		3
+64	invulner	3
+65	firebld1	3
+66	firebld2	3
+67	firebld3	3
+68	firebld4	3
+69	bladebll	3
+70	spidorb		3
+71	cresthed	3
+72	reptilon	3
+73	scorpid		3
+74	flmehog		3
+75	kobra		3
+76	boss1		3
+77	boss2		3
+78	boss3		3
+79	boss4		3
+80	Havok		3
+81	strider		3
+82	razorb		3
+83	pipe3		2
+84	pipe4		2
+85	pipe5		2
+86	pipe6		2
+87	scen2		2,4
+88	pillar1		2
+89	pillar2		2
+90	pillar3		2
+91	pillar4		2
+92	pillar5		2
+93	pillar6		2
+94	pillar7		2
+95	infloor2	2
+96	infloor3	2
+97	grass1		2
+98	grass2		2
+99	pipebk		0
+100	ladder		4
+101	wire2		2
+102	frlight1	4
+103	frlight2	4
+104	soil1		0
+105	soil2		0
+106	soil3		0
+107	soil4		0
+108	wall2		1
+109	wall3		1
+110	wall4		1
+111	wall5		1
+112	wall6		1
+113	wall7		1
+114	wall8		1
+115	wall1tr		1
+116	wall1tl		1
+117	wall1br		1
+118	wall1bl		1
+119	wall1itr	4
+120	wall1itl	4
+121	wall1ibr	4
+122	wall1ibl	4
+123	pole		2
+124	scen3		2
+125	
+126	
+127	
+128	
+129	
+130	
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+
+525	spikes2		3
+
+1000+	Custom Tiles
