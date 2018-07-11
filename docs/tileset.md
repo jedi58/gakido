@@ -21,3 +21,12 @@ wall4a
 
 ![wall4b](https://github.com/jedi58/gakido/blob/master/assets/gfx/wall4b.png)
 wall4b
+
+![wep8](https://github.com/jedi58/gakido/blob/master/assets/gfx/wep8.png)
+wep8
+
+![wire1](https://github.com/jedi58/gakido/blob/master/assets/gfx/wire1.png)
+wire1
+
+![wire2](https://github.com/jedi58/gakido/blob/master/assets/gfx/wire2.png)
+wire2
