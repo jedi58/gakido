@@ -145,9 +145,23 @@
 
 ![pillar7](../assets/gfx/pillar7.png) pillar7
 
+![pipe1](../assets/gfx/pipe1.png) pipe1
+
+![pipe2](../assets/gfx/pipe2.png) pipe2
+
 ![pipe3](../assets/gfx/pipe3.png) pipe3
 
+![pipe4](../assets/gfx/pipe4.png) pipe4
+
+![pipe5](../assets/gfx/pipe5.png) pipe5
+
+![pipe6](../assets/gfx/pipe6.png) pipe6
+
 ![pipebk](../assets/gfx/pipebk.png) pipebk
+
+![power1](../assets/gfx/power1.png) power1
+
+![power2](../assets/gfx/power2.png) power2
 
 ![rdfkrbkb](../assets/gfx/rdfkrbkb.png) rdfkrbkb
 
