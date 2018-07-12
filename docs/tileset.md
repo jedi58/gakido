@@ -15,6 +15,58 @@
 
 ![bonus5](../assets/gfx/bonus5.png) bonus5
 
+![bottle1](../assets/gfx/bottle1.png) bottle1
+
+![box1](../assets/gfx/box1.png) box1
+
+![box2](../assets/gfx/box2.png) box2
+
+![box3](../assets/gfx/box3.png) box3
+
+![bubble](../assets/gfx/bubble.png) bubble
+
+![bubblend](../assets/gfx/bubblend.png) bubblend
+
+![cloud](../assets/gfx/cloud.png) cloud
+
+![cover1](../assets/gfx/cover1.png) cover1
+
+![cover3](../assets/gfx/cover3.png) cover3
+
+![cover3a](../assets/gfx/cover3a.png) cover3a
+
+![cover3b](../assets/gfx/cover3b.png) cover3b
+
+![cover3c](../assets/gfx/cover3c.png) cover3c
+
+![divhor](../assets/gfx/divhor.png) divhor
+
+![divver](../assets/gfx/divver.png) divver
+
+![extra1](../assets/gfx/extra1.png) extra1
+
+![extra2](../assets/gfx/extra2.png) extra2
+
+![extra3](../assets/gfx/extra3.png) extra3
+
+![extra4](../assets/gfx/extra4.png) extra4
+
+![extra5](../assets/gfx/extra5.png) extra5
+
+![fire](../assets/gfx/fire.png) fire
+
+![fire1](../assets/gfx/fire1.png) fire1
+
+![frlight1](../assets/gfx/frlight1.png) frlight1
+
+![frlight2](../assets/gfx/frlight2.png) frlight2
+
+![frligon1](../assets/gfx/frligon1.png) frligon1
+
+![frligon2](../assets/gfx/frligon2.png) frligon2
+
+![gem1](../assets/gfx/gem1.png) gem1
+
 ![infloor2](../assets/gfx/infloor2.png) infloor2
 
 ![kobral1](../assets/gfx/kobral1.png) kobral1
