@@ -67,17 +67,83 @@
 
 ![gem1](../assets/gfx/gem1.png) gem1
 
+![grass1](../assets/gfx/grass1.png) grass1
+
+![grass2](../assets/gfx/grass2.png) grass2
+
+![hiro-1](../assets/gfx/hiro-1.png) hiro-1
+
+![hiro-2](../assets/gfx/hiro-2.png) hiro-2
+
+![hirob1b](../assets/gfx/hirob1b.png) hirob1b
+
+![hirob1h](../assets/gfx/hirob1h.png) hirob1h
+
+![hirob2b](../assets/gfx/hirob2b.png) hirob2b
+
+![hirob2h](../assets/gfx/hirob2h.png) hirob2h
+
+![hirofb](../assets/gfx/hirofb.png) hirofb
+
+![hirofh](../assets/gfx/hirofh.png) hirofh
+
+![hirol1](../assets/gfx/hirol1.png) hirol1
+
+![hirol1b](../assets/gfx/hirol1b.png) hirol1b
+
+![hirol1h](../assets/gfx/hirol1h.png) hirol1h
+
+![hiror1b](../assets/gfx/hiror1b.png) hiror1b
+
+![hiror1h](../assets/gfx/hiror1h.png) hiror1h
+
+![hp1](../assets/gfx/hp1.png) hp1
+
+![infloor1](../assets/gfx/infloor1.png) infloor1
+
 ![infloor2](../assets/gfx/infloor2.png) infloor2
+
+![infloor3](../assets/gfx/infloor3.png) infloor3
+
+![invulner](../assets/gfx/invulner.png) invulner
+
+![kobra](../assets/gfx/kobra.png) kobra
 
 ![kobral1](../assets/gfx/kobral1.png) kobral1
 
+![kobral2](../assets/gfx/kobral2.png) kobral2
+
+![kobrar1](../assets/gfx/kobrar1.png) kobrar1
+
+![kobrar2](../assets/gfx/kobrar2.png) kobrar2
+
 ![ladder](../assets/gfx/ladder.png) ladder
+
+![mansnake](../assets/gfx/mansnake.png) mansnake
+
+![moon](../assets/gfx/moon.png) moon
+
+![ms](../assets/gfx/ms.png) ms
 
 ![mtnbk](../assets/gfx/mtnbk.png) mtnbk
 
+![outflo1](../assets/gfx/outflo1.png) outflo1
+
+![outflo2](../assets/gfx/outflo2.png) outflo2
+
+![pillar1](../assets/gfx/pillar1.png) pillar1
+
 ![pillar2](../assets/gfx/pillar2.png) pillar2
 
+![pillar3](../assets/gfx/pillar3.png) pillar3
+
+![pillar4](../assets/gfx/pillar4.png) pillar4
+
+![pillar5](../assets/gfx/pillar5.png) pillar5
+
 ![pillar6](../assets/gfx/pillar6.png) pillar6
+
+![pillar7](../assets/gfx/pillar7.png) pillar7
 
 ![pipe3](../assets/gfx/pipe3.png) pipe3
 
