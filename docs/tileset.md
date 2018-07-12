@@ -1,5 +1,7 @@
 # Tileset
-![floor](../assets/gfx/floor.png) floor
+![bgwall1](../assets/gfx/bgwall1.png) bgwall1
+
+![bgwall2](../assets/gfx/bgwall2.png) bgwall2
 
 ![infloor2](../assets/gfx/infloor2.png) infloor2
 
@@ -23,13 +25,9 @@
 
 ![sky1](../assets/gfx/sky1.png) sky1
 
-![sky2](../assets/gfx/sky2.png) sky2
-
 ![speed1](../assets/gfx/speed1.png) speed1
 
 ![spklcel1](../assets/gfx/spklcel1.png) spklcel1
-
-![wall1](../assets/gfx/wall1.png) wall1
 
 ![wall1bl](../assets/gfx/wall1bl.png) wall1bl
 
@@ -42,10 +40,6 @@
 ![wall3](../assets/gfx/wall3.png) wall3
 
 ![wall4](../assets/gfx/wall4.png) wall4
-
-![wall4a](../assets/gfx/wall4a.png) wall4a
-
-![wall4b](../assets/gfx/wall4b.png) wall4b
 
 ![wall5](../assets/gfx/wall5.png) wall5
 
