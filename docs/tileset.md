@@ -3,6 +3,18 @@
 
 ![bgwall2](../assets/gfx/bgwall2.png) bgwall2
 
+![bldgbk](../assets/gfx/bldgbk.png) bldgbk
+
+![bonus1](../assets/gfx/bonus1.png) bonus1
+
+![bonus2](../assets/gfx/bonus2.png) bonus2
+
+![bonus3](../assets/gfx/bonus3.png) bonus3
+
+![bonus4](../assets/gfx/bonus4.png) bonus4
+
+![bonus5](../assets/gfx/bonus5.png) bonus5
+
 ![infloor2](../assets/gfx/infloor2.png) infloor2
 
 ![kobral1](../assets/gfx/kobral1.png) kobral1
